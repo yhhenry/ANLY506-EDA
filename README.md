@@ -1,5 +1,5 @@
-# ANLY506-EDA
-ANLY506 EDA
+# ANLY506-EDA Coding Portfolio Yiheng Hu
+ANLY506 EDA 
 
 week2 Data Type and Data Format.R for Phillips, N. D. (2016). YaRrr! The Pirate’s Guide to R Chapter 9 Importing, saving and managing data
 
